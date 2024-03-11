@@ -1,0 +1,5 @@
+CENG1234;Data Structures and Algoriyhms;Mehmet Kara;4
+CENG2345;Programming Languages;Hande Demiroğlu;4
+CENG3456;Machine Learning;Deniz Esen;3
+CENG4567;Introduction to Computer Scene;Tarık Aydın;0
+CENG5678;Network;Ender Karaca;8
